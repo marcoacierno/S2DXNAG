@@ -21,3 +21,5 @@ Jump. <br />
 Every second you get a point.
 
 <b>Warning</b>: I used oyyou91 ( http://www.youtube.com/user/oyyou91 ) tile and player images. Thank you. Visit his youtube profile oyyou91
+
+More info: http://revonline.comuf.com/xna/
