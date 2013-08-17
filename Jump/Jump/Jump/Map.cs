@@ -122,7 +122,7 @@ namespace Jump
                         elementi.Add(new Elemento(2, new Rectangle(xFinish, yFinish - obj_size, obj_size, obj_size)));
                     }
 
-                    if (xFinish >= Int32.MaxValue - 10)
+                    if (xFinish >= Int32.MaxValue - obj_size)
                         xFinish = maxlen * obj_size;
 
                 }
