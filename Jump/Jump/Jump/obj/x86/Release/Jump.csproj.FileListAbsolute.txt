@@ -1,0 +1,10 @@
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Content\Punteggio.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Content\tile1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Content\tile2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Content\player.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Jump.exe.config
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Jump.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Release\Jump.pdb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Release\Jump.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Release\Jump.pdb

@@ -1,0 +1,11 @@
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Jump.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Jump.pdb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Debug\Jump.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Debug\Jump.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\obj\x86\Debug\Jump.pdb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Content\Punteggio.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Content\tile2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Content\player.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Jump\Jump\Jump\bin\x86\Debug\Jump.exe.config

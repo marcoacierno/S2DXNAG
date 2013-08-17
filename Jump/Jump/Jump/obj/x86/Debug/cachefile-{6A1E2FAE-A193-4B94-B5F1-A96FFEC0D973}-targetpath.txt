@@ -1,0 +1,4 @@
+Content\Punteggio.xnb
+Content\tile1.xnb
+Content\tile2.xnb
+Content\player.xnb
