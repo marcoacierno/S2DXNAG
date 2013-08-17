@@ -19,3 +19,5 @@ http://picu.site11.com/images/a96c50943151bd8274a017c0cfe81f60e41f59c4.png <br /
 Jump. <br />
 
 Every second you get a point.
+
+<b>Warning</b>: I used oyyou91 ( http://www.youtube.com/user/oyyou91 ) tile and player images. Thank you. Visit his youtube profile oyyou91
