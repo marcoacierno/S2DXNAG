@@ -16,4 +16,6 @@ http://picu.site11.com/images/a96c50943151bd8274a017c0cfe81f60e41f59c4.png <br /
 
 <b>Objective</b>:
 
-Jump.
+Jump. <br />
+
+Every second you get a point.
