@@ -22,7 +22,6 @@ namespace Jump
         SpriteFont punteggio;
         Map mappa;
         Player player;
-        int Score = 0;
         public static bool GameOver = false;
 
         int lastSec = DateTime.Now.Second;
@@ -101,7 +100,6 @@ namespace Jump
             {
                 if (Keyboard.GetState().IsKeyDown(Keys.Y))
                 {
-                    Score = 0;
                     GameOver = false;
 
                     mappa.Clear();
@@ -134,7 +132,7 @@ namespace Jump
         {
             if (lastSec != DateTime.Now.Second)
             {
-                Score++;
+                player.Score++;
             }
 
             lastSec = DateTime.Now.Second;
@@ -150,7 +148,7 @@ namespace Jump
             }
             else
             {
-                spriteBatch.DrawString(punteggio, "Punteggio: " + Score, new Vector2(10, 0), Color.White);
+                spriteBatch.DrawString(punteggio, "Punteggio: " + player.Score, new Vector2(10, 0), Color.White);
             }
 
             mappa.Draw(spriteBatch);

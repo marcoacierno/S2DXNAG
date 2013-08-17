@@ -17,6 +17,7 @@ namespace Jump
         private Vector2 velocity = new Vector2();
 
         private int times;
+        public int Score = 0;
 
         public Player()
         {
@@ -28,6 +29,8 @@ namespace Jump
         {
             position = new Vector2(10, 0);
             velocity = new Vector2();
+
+            Score = 0;
         }
 
         public void Draw(SpriteBatch sprite)
