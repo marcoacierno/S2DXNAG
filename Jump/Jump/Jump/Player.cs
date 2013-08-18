@@ -16,7 +16,7 @@ namespace Jump
         private Vector2 position = new Vector2(10, 0);
         private Vector2 velocity = new Vector2();
 
-        private int times;
+      //  private int times;
         public int Score = 0;
 
         public Player()
@@ -58,13 +58,13 @@ namespace Jump
 
             if (Keyboard.GetState().IsKeyDown(Keys.Space))
             {
-                if (times < 2)
-                {
+                //if (times < 2)
+              //  {
                     position.Y -= 5f;
-                    velocity.Y -= 9f;
+                    velocity.Y -= 2f;
 
-                    times++;
-                }
+                //      times++;
+                //   }
             }
 
             rect = new Rectangle((int)position.X, (int)position.Y, texture.Width, texture.Height);
@@ -75,7 +75,7 @@ namespace Jump
             if (rect.IsTouchTop(r1))
             {
                 velocity.Y = 0;
-                times = 0;
+                //      times = 0;
             }
         }
     }

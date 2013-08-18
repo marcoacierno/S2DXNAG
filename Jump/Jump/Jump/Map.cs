@@ -63,6 +63,10 @@ namespace Jump
             InitMap(mappa_originale);
         }
 
+        /// <summary>
+        /// Crea la mappa
+        /// </summary>
+        /// <param name="mappa"></param>
         private void InitMap(int[,] mappa)
         {
             int k = mappa.GetLength(1);
